@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/carouselI1.png</file>
+    </qresource>
+</RCC>

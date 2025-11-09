@@ -405,3 +405,4 @@ imgs/
 /Generated
 *.cpp
 Music.pro
+.idea
