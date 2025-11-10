@@ -96,3 +96,48 @@
 ##### RadioButton
 
 ##### Popup
+
+### Dialog
+
+##### Dialog
+
+##### FileDialog
+
+从 `QtQuick.Dialogs` 导入控件
+
+##### ColorDialog
+
+##### MessageDialog
+
+# 状态和过渡
+
+运行时候会涉及多种状态的切换，引入状态管理
+直接变化过于突兀，使用过渡来平滑实现
+
+### 动画
+
+##### PropertyAnimation
+
+##### Behavior
+
+定义值变化的行为，可以用来替换动画效果
+
+##### ParallelAnimation SequentialAnimation
+
+# 图形美化
+
+### Gradient
+
+##### LinearGradient
+
+##### RadialGradient
+
+### Image
+
+##### BrightnessContrast
+
+##### Slider
+
+##### Colorize
+
+# 视图代理模型
